@@ -312,6 +312,8 @@ header{
         font-size: 15px;
         transition: 0.4s;
         border-radius: 8px;
+        display: flex;
+        justify-content: space-between;
       }
       
       .active, .accordion:hover {
